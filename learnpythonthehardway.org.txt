@@ -1,0 +1,5 @@
+http://www.learnpythonthehardway.org
+
+This is me following the tutorial for learn python the hard way. :D
+
+Please follow along. It'll be good!
